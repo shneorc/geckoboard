@@ -3,9 +3,9 @@
     "point": [
       {
         "city": {
-	"city_name": "Colorado Springs",
+	"city_name": "Denver",
           "country_code": "US",
-          "region_code": "CL"
+          "region_code": "CO"
         },
 		"size": 50
       }
