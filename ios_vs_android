@@ -3,11 +3,11 @@
     "point": [
       {
         "city": {
-	"city_name": "San Francisco",
+	"city_name": "Colorado Springs",
           "country_code": "US",
-          "region_code": "CA"
+          "region_code": "CL"
         },
-		"size": 10
+		"size": 50
       }
     ]
   }
