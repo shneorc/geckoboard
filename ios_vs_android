@@ -1,24 +1,12 @@
 {
-  "android":"75.16",
-  "ios":"21.98",
-  "others":"2.86",
-  
-  "Countries":[
-	{
-		"country":"USA",
-		"android":"75.16",
-		"ios":"21.98",
-		"others":"2.86"
-		},
-	{
-		"country":"Canada",
-		"android":"41.16",
-		"ios":"53.98"
-		},
-	{
-		"country":"Australia",
-		"android":"39.02",
-		"ios":"60.49"
-		}
-  ]
- }
+  "points": {
+    "point": [
+      {
+        "city": {
+          "country_code": "US"
+        },
+		"size": 10
+      }
+    ]
+  }
+}
