@@ -3,6 +3,7 @@
     "point": [
       {
         "city": {
+	"city_name": "San Francisco",
           "country_code": "US",
           "region_code": "CA"
         },
