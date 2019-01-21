@@ -1134,7 +1134,7 @@
       {
         "latitude": "37.09024",
         "longitude": "-95.712891",
-        "size": 6
+        "size": 21
       },
       {
         "latitude": "-32.522779",
@@ -1221,7 +1221,7 @@
         "longitude": "29.154857",
         "size": 23
       },
-      {"latitude":"37.09024","longitude":"-95.712891","size":12,"color": "31ea68"},
+      {"latitude":"37.09024","longitude":"-95.712891","size":10,"color":"31ea68"}
 
     ]
   }
