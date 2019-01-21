@@ -1130,6 +1130,96 @@
         "latitude": "1.373333",
         "longitude": "32.290275",
         "size": 5
+      },
+      {
+        "latitude": "37.09024",
+        "longitude": "-95.712891",
+        "size": 6
+      },
+      {
+        "latitude": "-32.522779",
+        "longitude": "-55.765835",
+        "size": 7
+      },
+      {
+        "latitude": "41.377491",
+        "longitude": "64.585262",
+        "size": 8
+      },
+      {
+        "latitude": "41.902916",
+        "longitude": "12.453389",
+        "size": 9
+      },
+      {
+        "latitude": "12.984305",
+        "longitude": "-61.287228",
+        "size": 10
+      },
+      {
+        "latitude": "6.42375",
+        "longitude": "-66.58973",
+        "size": 11
+      },
+      {
+        "latitude": "18.420695",
+        "longitude": "-64.639968",
+        "size": 12
+      },
+      {
+        "latitude": "18.335765",
+        "longitude": "-64.896335",
+        "size": 13
+      },
+      {
+        "latitude": "14.058324",
+        "longitude": "108.277199",
+        "size": 14
+      },
+      {
+        "latitude": "-15.376706",
+        "longitude": "166.959158",
+        "size": 15
+      },
+      {
+        "latitude": "-13.768752",
+        "longitude": "-177.156097",
+        "size": 16
+      },
+      {
+        "latitude": "-13.759029",
+        "longitude": "-172.104629",
+        "size": 17
+      },
+      {
+        "latitude": "42.602636",
+        "longitude": "20.902977",
+        "size": 18
+      },
+      {
+        "latitude": "15.552727",
+        "longitude": "48.516388",
+        "size": 19
+      },
+      {
+        "latitude": "-12.8275",
+        "longitude": "45.166244",
+        "size": 20
+      },
+      {
+        "latitude": "-30.559482",
+        "longitude": "22.937506",
+        "size": 21
+      },
+      {
+        "latitude": "-13.133897",
+        "longitude": "27.849332",
+        "size": 22
+      },
+      {
+        "latitude": "-19.015438",
+        "longitude": "29.154857",
+        "size": 23
       }
     ]
   }
