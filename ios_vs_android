@@ -2,13 +2,13 @@
   "points": {
     "point": [
       {
-        "latitude": "55.378051",
-        "longitude": "-3.435973",
+        "latitude": "58.378051",
+        "longitude": "-3.0",
         "size": 10
       },
       {
-        "latitude": "50.378051",
-        "longitude": "-2.435973",
+        "latitude": "48.378051",
+        "longitude": "-2.0",
         "size": 6,
         "color": "31ea68"
       }
