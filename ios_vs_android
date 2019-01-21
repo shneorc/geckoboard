@@ -57,8 +57,8 @@
 {"latitude":"60.128161","longitude":"18.643501","size":5},
 {"latitude":"15.870032","longitude":"100.992541","size":5},
 {"latitude":"38.963745","longitude":"35.243322","size":5},
-{"latitude":"37.0902","longitude":"-90.7128","size":20},
-{"latitude":"37.0902","longitude":"-100.7128","size":15,"color": "31ea68"},
+{"latitude":"37.0902","longitude":-90.7128,"size":20},
+{"latitude":"37.0902","longitude":-100.7128,"size":15,"color": "31ea68"},
 {"latitude":"14.058324","longitude":"108.277199","size":14},
 {"latitude":"-30.559482","longitude":"22.937506","size":21}
     ]
