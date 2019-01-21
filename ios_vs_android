@@ -1,8 +1,17 @@
 {
   "points": {
     "point": [
-{"latitude":"55.378051","longitude":"-3.435973","size":10},
-{"latitude":"50.378051","longitude":"-2.435973","size":6, "color":"31EA68"},
+      {
+        "latitude": "55.378051",
+        "longitude": "-3.435973",
+        "size": 10
+      },
+      {
+        "latitude": "50.378051",
+        "longitude": "-2.435973",
+        "size": 6,
+        "color": "31EA68"
+      }
     ]
   }
 }
