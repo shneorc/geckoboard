@@ -5,6 +5,13 @@
 {"latitude":"56.1303","longitude":"-106.3467","color": "000000","size":50},
 {"latitude":"56.1303","longitude":"-106.3467","color": "FFFF00","size":34},
 
+{"latitude":"-30.5594","longitude":"22.9375","color": "FFFF00","size":34},
+{"latitude":"-30.5594","longitude":"22.9375","color": "000000","size":23},
+
+{"latitude":"61.5240","longitude":"105.3187","color": "FFFF00","size":50},
+{"latitude":"61.5240","longitude":"105.3187","color": "000000","size":20},
+	
+
 {"latitude":"35.8616","longitude":"104.1953","color": "FFFF00","size":50},
 {"latitude":"35.8616","longitude":"104.1953","color": "000000","size":34},
 
