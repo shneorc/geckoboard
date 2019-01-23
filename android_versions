@@ -1,0 +1,28 @@
+{
+  "item":[
+    {
+      "value":"18.65",
+      "label":"6.0 Marshmallow"
+    },
+    {
+      "value":"18.33",
+      "label":"8.0 Oreo"
+    },
+    {
+      "value":"15.75",
+      "label":"8.1 Oreo"
+    },
+    {
+      "value":"13.79",
+      "label":"7.0 Nougat"
+    },
+    {
+      "value":"12.39",
+      "label":"5.1 Lollipop"
+    },
+    {
+      "value":"9.55",
+      "label":"7.1 Nougat"
+    }
+  ]
+}
