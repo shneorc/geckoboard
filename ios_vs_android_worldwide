@@ -1,19 +1,10 @@
 {
   "x_axis": {
-    "labels": [
-      "iOS",
-      "Android"
-    ]
-  },
-  "y_axis": {
-    "format": "percent"
+    "labels": ["Android", "iOS"]
   },
   "series": [
     {
-      "data": [
-        24,
-        76
-      ]
+      "data": [76, 24]
     }
   ]
 }
