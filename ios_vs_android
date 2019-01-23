@@ -1,14 +1,14 @@
 {
   "points": {
     "point": [
-{"latitude":"55.3780","longitude":"-3.4353","size":10},
-{"latitude":"55.3780","longitude":"0.4359","color": "31ea68","size": 8},
-{"latitude":"31.0460","longitude":"34.8516","size":5},
-{"latitude":"31.0460","longitude":"34.8516","color": "31ea68","size":15},
-{"latitude":"21.5936","longitude":"80.9628","color": "31ea68","size":40},
-{"latitude":"21.5936","longitude":"80.9628","size":16},
-{"latitude":"37.0902","longitude":-90.7128,"size":30},
-{"latitude":"37.0902","longitude":-100.7128,"size":23,"color": "31ea68"}
+{"latitude":"55.3780","longitude":"-3.4353","color": "000000","size":15},
+{"latitude":"55.3780","longitude":"-3.4353","color": "FFFF00","size": 12},
+{"latitude":"31.0460","longitude":"34.8516","color": "FFFF00","size":5},
+{"latitude":"31.0460","longitude":"34.8516","color": "000000","size":16},
+{"latitude":"21.5936","longitude":"80.9628","color": "FFFF00","size":40},
+{"latitude":"21.5936","longitude":"80.9628","color": "000000","size":16},
+{"latitude":"37.0902","longitude":-100.7128,"color": "000000""size":30},
+{"latitude":"37.0902","longitude":-100.7128,"size":23,"color": "FFFF00"}
     ]
   }
 }
