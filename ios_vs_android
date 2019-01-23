@@ -7,8 +7,8 @@
 {"latitude":"31.0460","longitude":"34.8516","color": "000000","size":16},
 {"latitude":"21.5936","longitude":"80.9628","color": "FFFF00","size":40},
 {"latitude":"21.5936","longitude":"80.9628","color": "000000","size":16},
-{"latitude":"37.0902","longitude":-100.7128,"color": "000000""size":30},
-{"latitude":"37.0902","longitude":-100.7128,"size":23,"color": "FFFF00"}
+{"latitude":"37.0902","longitude":-100.7128,"color": "000000","size":30},
+{"latitude":"37.0902","longitude":-100.7128,"color": "FFFF00","size":23}
     ]
   }
 }
